@@ -87,8 +87,3 @@
         <img alt="github-snake" src="https://raw.githubusercontent.com/JeViCo/JeViCo/refs/heads/output/github-contribution-grid-snake.svg" />
     </picture>
 </p>
-
-<p align="center">
-    <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <a href="https://wakatime.com/@JeViCo"><img width=800 src="https://github-readme-stats-jevico-apps.vercel.app/api/wakatime?username=JeViCo&layout=compact&hide_title=true&display_format=percent&theme=transparent&hide_border=true" alt="wakatime" title="wakatime"></a>
-</p>
